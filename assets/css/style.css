@@ -1,0 +1,202 @@
+body{
+    overflow-y: scroll;
+}
+
+/*  NAVIGATIE   */
+#navigatie li {
+    list-style: none;
+    padding: 0 0 0 10px;
+
+    margin: 0;
+}
+.nav-link{
+    padding: 0 0 0 10px;
+}
+@media  (max-width: 768px) {
+    #navigatie li {
+        padding: 0 0 0 20px;
+    }
+}
+
+
+
+#navigatie li a {
+    text-decoration: none;
+    color: #666666;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#navigatie li.active {
+    background: url("../img/icons/btn_klj.png") no-repeat left center !important; /* <-- change `left` & `top` too for extra control */
+}
+
+#navigatie li.active a {
+    color: #0080C0;
+}
+
+#navigatie li:hover {
+    background: url("../img/icons/btn_arrow.png") no-repeat left center; /* <-- change `left` & `top` too for extra control */
+}
+
+#navigatie li:hover a {
+    color: #0080C0;
+    text-decoration: none;
+}
+
+
+/*  HEADER */
+#header{
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+}
+
+img#logo_klj {
+    margin-left: 40px;
+    align: left;
+    width: 143px;
+    height: 164px;
+    z-index: 9999;
+    float: right;
+    margin-top: 10px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+img#logo_klj:hover {
+    -webkit-transform: rotate(200deg);
+    transform: rotate(200deg);
+}
+
+.bg {
+    margin-bottom: -150px;
+    z-index: -90;
+    /* The image used */
+    background-image: url("../img/background/background2.jpg");
+    /* Full height */
+    height: 450px;
+    /* Center and scale the image nicely */
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 91px solid transparent;
+    border-image-source: url(../img/background/backgroundBorder.png);
+    border-image-repeat: round;
+    border-image-slice: 230;
+}
+@media (min-width: 1500px) {
+    .bg {
+        margin-bottom: -200px;
+        height: 600px;
+    }
+
+    img#logo_klj {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+}
+
+body, html {
+    background-color: #86C9EF;
+
+}
+
+#inhoud > .card, .navbar{
+    background-color: rgba(255, 255, 255, 0.85);
+    border: 3px solid #F5A138;
+    border-radius: 16px;
+    margin: 5px;
+    padding: 5px 12px;
+}
+
+/*  inhoud */
+#inhoud > .card{
+    padding:20px 30px;
+}
+@media only screen and (max-width: 600px) {
+    #inhoud > .card {
+        padding: 5px 7px;
+    }
+    #inhoud > .card, .navbar{
+        margin: 5px -10px;
+
+    }
+}
+
+
+/*TYPOGRAFIE*/
+body, html {
+    color: #444444;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 15px;
+}
+h1,h2, h3, h4, h5{
+    font-weight: bold;
+    color:#0082BF;
+}
+
+
+
+hr{
+ margin-top: -0.2rem;
+    margin-bottom: 1.7rem;
+}
+footer{
+    color:grey;
+    padding-right:20px;
+    float:right;
+    font-size: small;
+}
+
+
+
+/*  LEIDING */
+.card-header{
+    font-size: x-large;
+    padding:3px;
+    font-weight: bold;
+}
+#inhoud > #leiding {
+padding:5px;
+}
+
+
+.page{
+    display: none;
+}
+
+
+/*  tabs nav    */
+.nav-tabs{
+    margin-bottom: 20px;
+}
+.nav-tabs .nav-link{
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color:#666666;
+    padding:4px 7px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+.nav-tabs .nav-link.active{
+    color: #0080C0;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 900px;
+    }
+}
+@media (min-width: 900px) {
+    .container {
+        max-width: 1200px;
+    }
+}

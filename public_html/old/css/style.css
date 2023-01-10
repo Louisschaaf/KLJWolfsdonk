@@ -1,0 +1,327 @@
+@charset "utf-8";
+body  {
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #444444;
+	background-color: #86c9ef;
+	background-image: url(../images/clouds.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 15px;
+	font-variant: normal;
+	counter-increment: inherit;
+}
+.twoColFixLtHdr #container {
+	width: 880px;
+	margin: 0 auto;
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #909090;
+	background-image: url(../images/containerBackground.jpg);
+	background-repeat: repeat;
+} 
+.bottomleft {
+	font-size: 2px;
+	background-image: url(../images/bottom-left.png);
+	height: 18px;
+	width: 16px;
+}
+.twoColFixLtHdr #header {
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(../images/banner.png);
+	height: 172px;
+	padding: 0;
+} 
+.twoColFixLtHdr #header h1 {
+	padding: 0px;
+	margin: 0;
+}
+.twoColFixLtHdr #sidebar1 {
+	width: 185px;
+	margin-left: 30px;
+	margin-top: 25px;
+	background-repeat: repeat-y;
+	padding: 0px;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+}
+.twoColFixLtHdr #mainContent h1,.twoColFixLtHdr #topContent h1  {
+	color: #0082BF;
+	font-size: 194%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #AAAAAA;
+	padding-bottom: 3px;
+}
+.twoColFixLtHdr #mainContent h2 {
+	color: #0072A8;
+	font-size: 135%;
+	padding-top: 12px;
+	margin-bottom: -3px;
+}
+.twoColFixLtHdr #mainContent h3 {
+	font-size: 114%;
+	padding-top: 10px;
+	margin-bottom: -7px;
+}
+.highlight {
+	color: #990000;
+}
+
+.twoColFixLtHdr #sidebar1 ul {
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+}
+.twoColFixLtHdr  #sidebar1  ul li {
+	padding-bottom: 10px;
+}
+.twoColFixLtHdr   #sidebar1   ul  li ul {
+	padding-left: 25px;
+	margin-bottom: 5px;
+	padding-bottom: 0px;
+}
+.twoColFixLtHdr #sidebar1 ul li ul li {
+	padding-top: 5px;
+	padding-bottom: 0px;
+	background-image: none;
+}
+.twoColFixLtHdr  #sidebar1  .contentBox   {
+	padding-left: 8px;
+}
+.twoColFixLtHdr       #sidebar1       a     {
+	text-decoration: none;
+	padding-left: 21px;
+	background-image: none;
+	background-position: left top;
+	color: #666666;
+}
+.twoColFixLtHdr  #sidebar1  a:hover    {
+	color: #0080C0;
+	background-image: url(../images/btn_arrow.png);
+	background-repeat: no-repeat;
+}
+.twoColFixLtHdr     #sidebar1     .active   a {
+	color: #0080C0;
+	background-image: url(../images/btn_klj.png);
+	background-repeat: no-repeat;
+}
+.twoColFixLtHdr    #sidebar1  .activeSub  a  {
+	color: #0080C0;
+}
+.twoColFixLtHdr   #sidebar1   .activeSub   ul  a {
+	color: #666666;
+}
+.twoColFixLtHdr  #sidebar1  .activeSub  .active  a {
+	color: #0080C0;
+}
+.twoColFixLtHdr #sidebar1 .active ul a {
+	color: #666666;
+	background-image: none;
+}
+.twoColFixLtHdr #sidebar1 .active ul a:hover {
+	color: #666666;
+	background-image: url(../images/btn_arrow.png);
+	background-repeat: no-repeat;
+}
+.nobottomgap {
+	margin-bottom: 0px;
+}
+.topright {
+	font-size: 2px;
+	background-image: url(../images/top-right.png);
+	float: right;
+	height: 18px;
+	width: 16px;
+	margin-top: -18px;
+}
+.top-m {
+	font-size: 2px;
+	background-image: url(../images/top-m.png);
+	background-repeat: repeat-x;
+	height: 18px;
+	margin-top: -18px;
+	margin-left: 16px;
+	margin-right: 16px;
+}
+.twoColFixLtHdr #mainContent {
+	margin-bottom: 10;
+	margin-left: 240px;
+	width: 625px;
+	margin-top: 25px;
+	padding: 0px;
+} 
+.twoColFixLtHdr #topContent {
+	margin-bottom: 10px;
+	margin-left: 240px;
+	width: 625px;
+	margin-top: 25px;
+	padding: 0px;
+} 
+
+.twoColFixLtHdr #footer {
+	margin-right: -10px;
+	margin-left: -10px;
+	padding-top: 0;
+	padding-right: 10px;
+	padding-bottom: 0;
+	padding-left: 20px;
+	margin-bottom: -10px;
+	height: 40px;
+	background-image: url(../images/bottomShadow.png);
+	background-position: bottom;
+	background-repeat: no-repeat;
+} 
+.contentBox {
+	background-image: url(../images/bg_contentBox.png);
+	background-repeat: repeat;
+	border-top-width: 4px;
+	border-right-width: 4px;
+	border-bottom-width: 4px;
+	border-left-width: 4px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #F5A138;
+	border-right-color: #F5A138;
+	border-bottom-color: #F5A138;
+	border-left-color: #F5A138;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: left;
+	overflow: hidden;
+}
+.twoColFixLtHdr   #mainContent a:link {
+	text-decoration: none;
+	color: #0080C0;
+}
+.twoColFixLtHdr  #mainContent a:visited {
+	color: #F5A138;
+	text-decoration: none;
+}
+.twoColFixLtHdr  #mainContent a:hover {
+	text-decoration: underline;
+}
+.twoColFixLtHdr  #mainContent a:active {
+	color: #F5A138;
+	text-decoration: underline;
+}
+.notopgap {
+	margin-top: 0px;
+}
+.topleft {
+	background-image: url(../images/top-left.png);
+	width: 16px;
+	height: 18px;
+	font-size: 2px;
+}
+.twoColFixLtHdr #footer p {
+	margin: 0;
+	font-weight: bold;
+	font-size: 11px;
+	color: #888888;
+	text-align: right;
+	padding: 10px;
+}
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.datum {
+	float: right;
+	font-size: 13px;
+	color: #888;
+	padding-top: 5px;
+	margin-left: 8px;
+}
+.bottomright {
+	font-size: 2px;
+	background-image: url(../images/bottom-right.png);
+	float: right;
+	height: 18px;
+	width: 16px;
+	margin-top: -18px;
+}
+.bottom-m {
+	font-size: 2px;
+	background-image: url(../images/bottom-m.png);
+	margin-top: -18px;
+	margin-right: 16px;
+	margin-left: 16px;
+	background-repeat: repeat-x;
+	height: 18px;
+}
+.fltlft { /* this class can be used to float an element left in your page */
+	float: left;
+	margin-right: 8px;
+	display: block;
+}
+.containfloats { /* this class should be placed on a div or line break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+.clearfloat {
+	clear:both;
+}
+.twoColFixLtHdr #wrapper {
+	margin-right: -10px;
+	margin-left: -10px;
+	background-image: url(../images/frameShadow.png);
+	background-repeat: repeat-y;
+	background-position: center top;
+	margin-bottom: 0px;
+	min-height: 500px;
+}
+.photoBox {
+	margin-left: -12px;
+	margin-right: -12px;
+}
+.photoBox table {
+	float: left;
+	margin-right: 0px;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+img#logo_klj{
+	align:left;
+	width:150px;
+	float:right;
+	margin-top:30px;
+	-webkit-transition: -webkit-transform .8s ease-in-out;
+	transition:         transform .8s ease-in-out;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+	filter: drop-shadow(5px 5px 5px #222);
+}
+img#logo_klj:hover{
+	-webkit-transform: rotate(200deg);
+	transform: rotate(200deg);
+}
+
+img#facebookLike{
+	
+	margin-left:-15px;
+	background-image:none;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+}
+img#facebookLike:hover{
+	background-image:none;
+	transform: scale(2.2);
+	-webkit-transform: scale(1.1);
+}
+img.border {
+    border-radius: 7px;
+}
