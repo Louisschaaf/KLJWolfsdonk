@@ -2,7 +2,83 @@
 	"leiding": [
 		{
 			"naam": "Wolfkes",
-			"groepFoto": "wolfkes.jpg",
+			"groepFoto": "WolfLeiding.jpeg",
+			"leiding": [
+				{
+					"voornaam": "Mila",
+					"achternaam": "Bourgois",
+					"bijnaam": "",
+					"geboorte": "25/01/2005",
+					"gsm": "04 68 32 14 51",
+					"studie": "gezondheids - en welzijnswetenschappen",
+					"eten": "spaghetti",
+					"spel": "quiz",
+					"foto": "mila.jpg",
+					"taak": ["publicatie", "lokaal"]
+				},
+				{
+					"voornaam": "Sien",
+					"achternaam": "Van Dijck",
+					"geboorte": "27/04/2002",
+					"studie": "Interieurarchitectuur aan de UHasselt",
+					"eten": "Puree",
+					"spel": "Pleinspelen extreem",
+					"foto": "sien.jpg",
+					"taken": ["Secretaris", "outfit-verantwoordelijke"]
+				},
+				{
+					"voornaam": "Julie",
+					"achternaam": "Printemps",
+					"bijnaam": "Julian",
+					"geboorte": "29/10/1997",
+					"studie": "Master Seksuologie, KU Leuven",
+					"eten": "Broccolistoemp",
+					"spel": "Pisquiz",
+					"foto": "julie.jpg",
+					"taken": ["EHBO, Gewest"]
+				},
+				{
+					"voornaam": "Jana",
+					"achternaam": "Pauwels",
+					"bijnaam": "",
+					"geboorte": "18/11/2005",
+					"gsm": "0468462481",
+					"studie": "Wetenschappen wiskunde (middelbaar)",
+					"eten": "hesp, prei en kaassaus met purree",
+					"spel": "quiz",
+					"foto": "jana.jpg",
+					"taken": ["KLJ voor iedereen"]
+				},
+				{
+					"voornaam": "Jari",
+					"achternaam": "Wynants",
+					"bijnaam": "",
+					"geboorte": "05/08/2005",
+					"gsm": "0472805694",
+					"studie": "chemie",
+					"eten": "pizza",
+					"spel": "dropping",
+					"foto": "jari.jpeg",
+					"taken": ["materiaal", "vuilnis verantwoordelijke"]
+				},
+				{
+					"voornaam": "Matthijs",
+					"achternaam": "Huybrechts",
+					"bijnaam": "Johan",
+					"geboorte": "06/04/2005",
+					"gsm": "0474 78 00 89",
+					"studie": "Bedrijfskundige Wetenschappen",
+					"eten": "frietjes",
+					"spel": "dropping",
+					"foto": "matthijs.jpeg",
+					"taken": ["ledencomunicatie"]
+				}
+			]
+		},
+
+		{
+			"naam": "Girry's",
+			"groepFoto": "Girry_groepsfoto.jpg",
 			"leiding": [
 				{
 					"voornaam": "Vic",
@@ -21,12 +97,118 @@
 					"achternaam": "Verbruggen",
 					"bijnaam": "Nora",
 					"geboorte": "21/09/1999",
-					"studie": "Master in de Farmaceutische Zorg, KU Leuven",
-					"eten": "Rodekool met spek",
-					"spel": "Alle spelletjes!",
+					"gsm": "",
+					"studie": "Master in de farmaceutische zorg, KU Leuven",
+					"eten": "Rode kool met spek",
+					"spel": "bosspel, tweedaagse",
 					"foto": "noortje.jpg",
-					"taken": ["Secretaris"]
+					"taken": ["secretaris", "kamp en weekend verantwoordelijke"]
 				},
+				{
+					"voornaam": "Lode",
+					"achternaam": "Degelin",
+					"geboorte": "07/06/1999",
+					"studie": "Master Criminologische wetenschappen",
+					"eten": "Videe met kroketten",
+					"spel": "Laddertocht",
+					"foto": "lode.jpg",
+					"taken": ["Drankverantwoordelijke", "gewestverantwoordelijke"]
+				},
+				{
+					"voornaam": "Kobe",
+					"achternaam": "Brusseleers",
+					"geboorte": "19/04/2003",
+					"studie": "Koeltechnieken",
+					"eten": "Kaas",
+					"spel": "tweedaagse",
+					"foto": "kobe.jpg",
+					"taken": [
+						"Dorpsraad","lokaal comité"
+					]
+				},
+				{
+					"voornaam": "Kjell",
+					"achternaam": "Mertens",
+					"bijnaam": "Wuttel",
+					"geboorte": "29/08/2002",
+					"studie": "Graduaat Othopedagogie",
+					"eten": "Braziliaans",
+					"spel": "Quiz",
+					"foto": "wortel.jpg",
+					"taken": [
+						"Leidingsbinding"
+					]
+				}
+			]
+		},
+		{
+			"naam": "Squirrels",
+			"groepFoto": "SquirrelLeiding.jpeg",
+			"leiding": [
+				{
+					"voornaam": "Louis",
+					"achternaam": "Schaaf",
+					"bijnaam": "Schaaf",
+					"geboorte": "09/10/2001",
+					"gsm": "0483110782",
+					"studie": "Informatica UCLL",
+					"eten": "Stoofvlees met frietjes!",
+					"spel": "kampen bouwen in het bos",
+					"foto": "louis.jpg",
+					"taken": ["site", "gewest verantwoordelijke"]
+				},
+				{
+					"voornaam": "Emma",
+					"achternaam": "Boutens",
+					"bijnaam": "",
+					"geboorte": "10/10/2005",
+					"gsm": "0499376445",
+					"studie": "Wiskunde-wetenschappen SMA",
+					"eten": "Pizza",
+					"spel": "Quiz",
+					"foto": "emma.jpg",
+					"taken": ["Ledencommunicatie", "Lokaal"]
+				},
+				{
+					"voornaam": "Kjell",
+					"achternaam": "Mesotten",
+					"bijnaam": "Mesotten",
+					"geboorte": "05/08/2002",
+					"studie": "Bachelor Ingenieurswetenschappen",
+					"eten": "Biefstuk met steak",
+					"foto": "mesotten.jpg",
+					"spel": "Dropping"
+				},
+				{
+					"voornaam": "Josefien",
+					"achternaam": "Verdonck",
+					"bijnaam": "Joske",
+					"geboorte": "17/10/2005",
+					"gsm": "0468334919",
+					"studie": "Wiskunde-wetenschappen ",
+					"eten": "Pasta",
+					"foto": "jos.jpg",
+					"spel": "Quiz",
+					"taken": ["Lokaal", "Vuilnis"]
+				},
+				{
+					"voornaam": "Vitoria",
+					"achternaam": "Fernandes",
+					"bijnaam": "Tori",
+					"geboorte": "01/12/2000",
+					"gsm": "0497 24 12 95",
+					"studie": "Graduaat Orthopedagogie",
+					"eten": "Italiaans",
+					"spel": "verstoppertje",
+					"foto": "Vitoria.jpeg",
+					"taken": ["EHBO", "jeugdraad"]
+				}
+			]
+		},
+		{
+			"naam": "Skunks",
+			"groepFoto": "SkunkLeiding.jpeg",
+			"leiding": [
 				{
 					"voornaam": "Tibo",
 					"achternaam": "Mertens",
@@ -48,12 +230,47 @@
 					"spel": "Stratego",
 					"foto": "warre.jpg",
 					"taken": ["Ledencommunicatie"]
+				},
+				{
+					"voornaam": "Louise",
+					"achternaam": "Verdonck",
+					"bijnaam": "",
+					"geboorte": "27/09/2003",
+					"studie": "Biomedische laboratoriumtechnologie, Campus Geel",
+					"eten": "burrito",
+					"spel": "muziekquiz, dropping",
+					"foto": "louise.jpg",
+					"taken": ["leidingsbinding"]
+				},
+				{
+					"voornaam": "Lotte",
+					"achternaam": "Jennes",
+					"bijnaam": "Lotteke",
+					"geboorte": "22/11/2004",
+					"gsm": "",
+					"studie": "Verpleegkunde, UCLL",
+					"eten": "Pizza en pasta",
+					"spel": "Estafette, ruiltocht, dorpspel",
+					"foto": "lotteke.jpg",
+					"taken": ["EHBO, kledingverantwoordelijke"]
+				},
+				{
+					"voornaam": "Robbe",
+					"achternaam": "Van Woensel",
+					"bijnaam": "Junior",
+					"geboorte": "09/01/2004",
+					"gsm": "0474525688",
+					"studie": "Economie Moderne Talen",
+					"eten": "Japans eten en frieten",
+					"spel": "Jachtseizoen en ruiltocht",
+					"foto": "junior.jpg",
+					"taken": ["drankverantwoordelijke"]
 				}
 			]
 		},
 
 		{
-			"naam": "Girry's",
+			"naam": "Waspi's",
 			"groepFoto": "",
 			"leiding": [
 				{
@@ -69,115 +286,15 @@
 					"taken": ["Kassier", "drankverantwoordelijke"]
 				},
 				{
-					"voornaam": "Vitoria",
-					"achternaam": "Fernandes",
-					"bijnaam": "Tori",
-					"geboorte": "01/12/2000",
-					"gsm": "0497 24 12 95",
-					"studie": "Graduaat Orthopedagogie",
-					"eten": "Italiaans",
-					"spel": "verstoppertje",
-					"foto": "vitoria.jpg",
-					"taken": ["EHBO", "jeugdraad"]
-				},
-				{
-					"voornaam": "Sien",
-					"achternaam": "Van Dijck",
-					"geboorte": "27/04/2002",
-					"studie": "Interieurarchitectuur aan de UHasselt",
-					"eten": "Puree",
-					"spel": "Pleinspelen extreem",
-					"foto": "sien.jpg",
-					"taken": ["Secretaris", "outfit-verantwoordelijke"]
-				},
-				{
-					"voornaam": "Jente",
-					"achternaam": "Smeets",
-					"geboorte": "12/04/2004",
-					"gsm": "0477229633",
-					"studie": "Latijn wetenschappen 6de jaar",
-					"eten": "Pindakaas",
-					"spel": "Stratego",
-					"foto": "jente.jpg",
-					"taken": ["Ledencommunicatie"]
-				},
-        {
-          "voornaam": "Kobe",
-          "achternaam": "Brusseleers",
-          "geboorte": "19/04/2003",
-          "studie": "Koeltechnieken",
-          "eten": "Kaas",
-          "spel": "tweedaagse",
-          "foto": "kobe.jpg",
-          "taken": [
-            "Dorpsraad","lokaal comité"
-          ]
-        }
-			]
-		},
-		{
-			"naam": "Squirrels",
-			"groepFoto": "",
-			"leiding": [
-				{
-					"voornaam": "Louise",
-					"achternaam": "Verdonck",
-					"geboorte": "27/09/2021",
-					"studie": "(Bio)chemie",
-					"eten": "Wrapssss",
-					"spel": "(Ruil)tocht, dropping, quiz",
-					"foto": "louise.jpg",
-					"taken": ["Publicatie", "notulist", "lokaalverantwoordelijke"]
-				},
-				{
-					"voornaam": "Kjell",
-					"achternaam": "Mertens",
-					"bijnaam": "Wuttel",
-					"geboorte": "29/08/2002",
-					"gsm": "0495 44 61 58",
-					"studie": "Graduaat Orthopedagogie",
-					"eten": "Italiaans",
-					"spel": "Quiz",
-					"foto": "wortel.jpg",
-					"taken": ["Leidingsbinding", "EHBO"]
-				},
-				{
-					"voornaam": "Lotte",
-					"achternaam": "Jennes",
-					"bijnaam": "Lotteke",
-					"geboorte": "22/11/2004",
-					"studie": "Marketing & ondernemen",
-					"eten": "Pizza",
-					"spel": "Bosspel, quiz",
-					"foto": "lotteke.jpg",
-					"taken": ["Outfit verantwoordelijke"]
-				},
-				{
-					"voornaam": "Robbe",
-					"achternaam": "Van Woensel",
-					"bijnaam": "Junior",
-					"geboorte": "09/01/2004",
-					"studie": "Economie Moderne Talen",
-					"eten": "Pizza salami met pepers",
-					"spel": "Bos stratego",
-					"foto": "junior.jpg",
-					"taken": ["Verantwoordelijke voor vuilnis"]
-				}
-			]
-		},
-		{
-			"naam": "Skunks",
-			"groepFoto": "",
-			"leiding": [
-				{
-					"voornaam": "Kjell",
-					"achternaam": "Mesotten",
-					"bijnaam": "Mesotten",
-					"geboorte": "05/08/2002",
-					"studie": "Bachelor Ingenieurswetenschappen",
-					"eten": "Biefstuk met steak",
-					"foto": "mesotten.jpg",
-					"spel": "Dropping"
+					"voornaam": "Xanty",
+					"achternaam": "Vandezande",
+					"bijnaam": "Scampi / Stofzuiger",
+					"geboorte": "03/04/2002",
+					"studie": "Bedrijfsmanagement, optie KMO",
+					"eten": "Spinaziepuree",
+					"spel": "Quizzen",
+					"foto": "xanty.jpg",
+					"taken": [" "]
 				},
 				{
 					"voornaam": "Frauke",
@@ -203,61 +320,10 @@
 				}
 			]
 		},
-
-		{
-			"naam": "Waspi's",
-			"groepFoto": "",
-			"leiding": [
-				{
-					"voornaam": "Louis",
-					"achternaam": "Schaaf",
-					"bijnaam": "Flokke / big Louis",
-					"geboorte": "09/10/2001",
-					"gsm": "0483110782",
-					"studie": "Informatica UCLL",
-					"eten": "BBQ!",
-					"spel": "dropping, ruiltocht",
-					"foto": "louis.jpg",
-					"taken": ["hoofdleiding", "site", "materiaal verantwoordelijke"]
-				},
-        {
-					"voornaam": "Tijs",
-					"achternaam": "Van Woensel",
-					"bijnaam": "Woensel",
-					"geboorte": "15/06/1999",
-					"studie": "Graduaat productiebeheer land- en tuinbouw",
-					"eten": "BBQ",
-					"spel": "Bosstratego",
-					"foto": "tijs.jpg",
-					"taken": ["Drankverantwoordelijke"]
-				},
-				{
-					"voornaam": "Lode",
-					"achternaam": "Degelin",
-					"geboorte": "07/06/1999",
-					"studie": "Master Criminologische wetenschappen",
-					"eten": "Videe",
-					"spel": "Laddertocht",
-					"foto": "lode.jpg",
-					"taken": ["Materiaal"]
-				}
-			]
-		},
 		{
 			"naam": "Aspi's",
 			"groepFoto": "",
 			"leiding": [
-				{
-					"voornaam": "Julie",
-					"achternaam": "Printemps",
-					"bijnaam": "Julian",
-					"geboorte": "29/10/1997",
-					"studie": "Master Seksuologie, KU Leuven",
-					"eten": "Broccolistoemp",
-					"spel": "Pisquiz",
-					"foto": "julie.jpg",
-					"taken": ["EHBO, Gewest"]
-				},
 				{
 					"voornaam": "Abram",
 					"achternaam": "Robijns",
@@ -270,15 +336,15 @@
 					"taken": ["Hoofdleiding, Kamp- en weekend", "gewest", "lokaal"]
 				},
 				{
-					"voornaam": "Lotte",
-					"achternaam": "Crauwels",
-					"bijnaam": "Lotar",
-					"geboorte": "14/08/1996",
-					"studie": "Werknemer bij de Banier",
-					"eten": "Pizza margerita met zwarte olijven",
-					"spel": "Trektocht",
-					"foto": "lotar.jpg",
-					"taken": ["Publicatie"]
+					"voornaam": "Ward",
+					"achternaam": "Van Schaeybroeck",
+					"geboorte": "18/08/2005",
+					"gsm": "0474190431",
+					"studie": "Tuinbouw",
+					"eten": "Steak",
+					"spel": "Guerilla tocht, ruiltocht",
+					"foto": "ward.jpg",
+					"taken": ["Leidingbinding"]
 				}
 			]
 		},
@@ -287,38 +353,26 @@
 			"groepFoto": "",
 			"leiding": [
 				{
-					"voornaam": "Lotte",
-					"achternaam": "Coorevits",
-					"bijnaam": "Klenne/ Coor",
-					"geboorte": "06/04/1999",
-					"studie": "Schakelprogramma psychologie VUB",
-					"eten": "Lasagnaaaa",
-					"spel": "Leiding vs leden",
-					"foto": "klenne.jpg",
-					"taken": ["Kamphuizen zoeken"]
+					"voornaam": "Tijs",
+					"achternaam": "Van Woensel",
+					"bijnaam": "Woensel",
+					"geboorte": "15/06/1999",
+					"studie": "Graduaat productiebeheer land- en tuinbouw",
+					"eten": "BBQ",
+					"spel": "Bosstratego",
+					"foto": "tijs.jpg",
+					"taken": ["Drankverantwoordelijke"]
 				},
 				{
-					"voornaam": "Anaïs",
-					"achternaam": "Mesotten",
-					"bijnaam": "Ananas",
-					"geboorte": "20/09/2004",
-					"gsm": "0497172927",
-					"studie": "Secretariaat-talen",
-					"eten": "Spaghetti",
+					"voornaam": "Jente",
+					"achternaam": "Smeets",
+					"geboorte": "12/04/2004",
+					"gsm": "0477229633",
+					"studie": "Latijn wetenschappen 6de jaar",
+					"eten": "Pindakaas",
 					"spel": "Stratego",
-					"foto": "ananas.jpg",
-					"taken": ["Vuilnis "]
-				},
-        {
-					"voornaam": "Xanty",
-					"achternaam": "Vandezande",
-					"bijnaam": "Ananas",
-					"geboorte": "03/04/2002",
-					"studie": "Bedrijfsmanagement, optie KMO",
-					"eten": "Spinaziepuree",
-					"spel": "Quizzen",
-					"foto": "xanty.jpg",
-					"taken": [" "]
+					"foto": "jente.jpg",
+					"taken": ["Ledencommunicatie"]
 				}
 			]
 		}
