@@ -60,18 +60,6 @@
 					"spel": "dropping",
 					"foto": "jari.jpeg",
 					"taken": ["materiaal", "vuilnis verantwoordelijke"]
-				},
-				{
-					"voornaam": "Matthijs",
-					"achternaam": "Huybrechts",
-					"bijnaam": "Johan",
-					"geboorte": "06/04/2005",
-					"gsm": "0474 78 00 89",
-					"studie": "Bedrijfskundige Wetenschappen",
-					"eten": "frietjes",
-					"spel": "dropping",
-					"foto": "matthijs.jpeg",
-					"taken": ["ledencomunicatie"]
 				}
 			]
 		},
