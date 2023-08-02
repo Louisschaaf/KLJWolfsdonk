@@ -5,18 +5,6 @@
 			"groepFoto": "WolfLeiding.jpeg",
 			"leiding": [
 				{
-					"voornaam": "Mila",
-					"achternaam": "Bourgois",
-					"bijnaam": "",
-					"geboorte": "25/01/2005",
-					"gsm": "04 68 32 14 51",
-					"studie": "gezondheids - en welzijnswetenschappen",
-					"eten": "spaghetti",
-					"spel": "quiz",
-					"foto": "mila.jpg",
-					"taak": ["publicatie", "lokaal"]
-				},
-				{
 					"voornaam": "Sien",
 					"achternaam": "Van Dijck",
 					"geboorte": "27/04/2002",
@@ -172,7 +160,6 @@
 					"achternaam": "Verdonck",
 					"bijnaam": "Joske",
 					"geboorte": "17/10/2005",
-					"gsm": "0468334919",
 					"studie": "Wiskunde-wetenschappen ",
 					"eten": "Pasta",
 					"foto": "jos.jpg",
@@ -322,17 +309,6 @@
 					"spel": "Hoe vettiger hoe prettiger",
 					"foto": "abram.jpg",
 					"taken": ["Hoofdleiding, Kamp- en weekend", "gewest", "lokaal"]
-				},
-				{
-					"voornaam": "Ward",
-					"achternaam": "Van Schaeybroeck",
-					"geboorte": "18/08/2005",
-					"gsm": "0474190431",
-					"studie": "Tuinbouw",
-					"eten": "Steak",
-					"spel": "Guerilla tocht, ruiltocht",
-					"foto": "ward.jpg",
-					"taken": ["Leidingbinding"]
 				}
 			]
 		},
